@@ -1,6 +1,8 @@
 import { useParams } from "react-router-dom"
 import "./BlogView.css"
 import blogs from "../../data"
+import React from 'react'
+
 
 function BlogView ()
     {
